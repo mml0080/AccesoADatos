@@ -1,0 +1,7 @@
+public class Ejemlpo6 {
+    public static void main(String[] args) {
+        
+        
+
+    }
+}
